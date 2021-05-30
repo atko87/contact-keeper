@@ -20,8 +20,8 @@
     "express": "^4.17.1",
     "express-validator": "^6.3.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.8.3",
-    "react-dev-utils": "^10.0.0"
+    "mongoose": "^5.12.12",
+    "react-dev-utils": "^11.0.4"
   },
   "devDependencies": {
     "concurrently": "^5.0.2",
